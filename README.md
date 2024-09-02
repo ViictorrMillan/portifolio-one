@@ -1,6 +1,6 @@
-Projeto em Andamento
+Projeto em Andamento . . . 
 ---
-# Portfólio de Victor Millan
+# Portfólio 
 
 Bem-vindo ao meu portfólio! Aqui você encontrará informações sobre mim, meus projetos, e as tecnologias com as quais trabalho.
 
